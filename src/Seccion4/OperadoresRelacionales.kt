@@ -1,4 +1,4 @@
-package Seccion3
+package Seccion4
 
 fun main(args: Array<String>){
     //Evaluaciones sobre impresion (Devuelven un valor booleano)

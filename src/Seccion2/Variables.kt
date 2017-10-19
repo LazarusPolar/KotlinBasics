@@ -1,4 +1,4 @@
-package Seccion1
+package Seccion2
 
 fun main(args: Array<String>){
   //Declaracion de variables

@@ -1,4 +1,4 @@
-package Seccion1
+package Seccion2
 
 fun main(args: Array<String>){
   //Variable puede ser o no ser nula con el simbolo ?
